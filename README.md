@@ -22,7 +22,7 @@ Feel free to use the file in any non-commercial way you like. **Do consider shar
 
 I'm accepting any and all suggestions on designs/features with open arms! 
 
-Drop me DM on [Reddit](https://www.reddit.com/user/illegal-ferret/) for any suggestions and/or questions you might have!
+Drop me a DM on [Reddit](https://www.reddit.com/user/illegal-ferret/) for any suggestions and/or questions you might have!
 
 Enjoy!
 
