@@ -10,7 +10,7 @@ Thanks for checking out my **Protogen Character Generator**. The generator is us
 
 More features and designs will also be added in the future!
 
-# Usage
+# Using the Generator
 
 **Download the .blend file [>>HERE<<](https://github.com/illegal-ferret/protogen-generator/raw/main/generator/proto_generator_0.1.blend)**
 
