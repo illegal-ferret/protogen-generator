@@ -13,7 +13,7 @@ More features and models will be added in the future!
 
 # Usage
 
-**Download the .blend file [>>HERE<<]()**
+**Download the .blend file [>>HERE<<](https://github.com/illegal-ferret/protogen-generator/raw/main/generator/proto_generator_0.1.blend)**
 
 The file has basic instructions to customize and render your own protogen!
 
