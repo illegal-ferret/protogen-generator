@@ -12,6 +12,8 @@ This early version of the tool is only for character concepting and image render
 Small update with custom icons (instructions [here](https://github.com/illegal-ferret/protogen-generator/wiki/Manual)), more colors and tons of scaling & rotating!
 Check out the release notes [here](https://github.com/illegal-ferret/protogen-generator/wiki/Release-Notes)!
 
+**This version might introduce some bad clipping and low quality objects on lower end pcs! Currently looking for a fix!** I'm working on the file with a GTX 1070 and Ryzen 3300X.
+
 **What's next?**
 
 Currently working on a base model for the body. There's a little sneak peek in v0.2, see if you can find it! ;)
