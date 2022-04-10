@@ -12,7 +12,7 @@ This early version of the tool is only for character concepting and image render
 Small update with custom icons (instructions [here](https://github.com/illegal-ferret/protogen-generator/wiki/How-To)), more colors and tons of scaling & rotating!
 Check out the release notes [here](https://github.com/illegal-ferret/protogen-generator/wiki/Release-Notes)!
 
-**IMPORTANT! Toggle off GPU Subdivions in Blender's preferences (Edit > Preferences > Viewport > GPU Subdivision) to get the intended look!**
+**IMPORTANT! Toggle off GPU Subdivision in Blender's preferences (Edit > Preferences > Viewport > GPU Subdivision) to get the intended look!**
 
 
 
