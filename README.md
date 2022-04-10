@@ -9,7 +9,7 @@ Thanks for checking out my **Protogen Character Generator**. The generator is us
 This early version of the tool is only for character concepting and image renders. More features and designs will be added in the future!
 
 # Version 0.2 Is Here!
-Small update with custom icons (instructions [here](https://github.com/illegal-ferret/protogen-generator/wiki/Manual)), more colors and tons of scaling & rotating!
+Small update with custom icons (instructions [here](https://github.com/illegal-ferret/protogen-generator/wiki/How-To)), more colors and tons of scaling & rotating!
 Check out the release notes [here](https://github.com/illegal-ferret/protogen-generator/wiki/Release-Notes)!
 
 **IMPORTANT! Toggle off GPU Subdivions in Blender's preferences (Edit > Preferences > Viewport > GPU Subdivision) to get the intended look!**
