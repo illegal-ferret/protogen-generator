@@ -38,7 +38,7 @@ Drop me a DM on [Reddit](https://www.reddit.com/user/illegal-ferret/), [Twitter]
 
 Enjoy!
 
-/u/illegal-ferret
+Illegal Ferret
 
 
 ![proot](/media/ui.png)
