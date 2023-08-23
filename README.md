@@ -1,6 +1,5 @@
-# Update 21/08/2023
-
-I'm returning to this project after a long hiatus. Expect some changes soon.
+# DEVELOPMENT BRANCH
+This version of the generator has many unfinished and untested features.
 
 # Protogen Character Generator
 
@@ -8,13 +7,11 @@ Thanks for checking out my **Protogen Character Generator**. The generator is us
 
 ## Using the Generator
 
-You'll need [Blender](https://www.blender.org/download/) 3.1+ for the file to work correctly.
+You'll need [Blender](https://www.blender.org/download/) 3.6+ for the file to work correctly.
 
 **Download the .blend file [here](https://github.com/illegal-ferret/protogen-generator/raw/main/generator/proto_generator.blend)**!
 
 The file has basic instructions to customize and render your own protogen!
-
-**IMPORTANT! Toggle off GPU Subdivision in Blender's preferences (Edit > Preferences > Viewport > GPU Subdivision) to get the intended look!**
 
 ## License & Copyright
 
