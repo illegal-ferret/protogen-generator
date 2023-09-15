@@ -5,7 +5,7 @@ I'm returning to this project after a long hiatus. Expect some changes soon.
 # ⭐ Protogen Character Generator
 
 The Protogen Character Generator is a blender-based creation tool used to generate protogen/primagen fursonas. This is a great tool for anybody who wants a quickly made 3D model of a protogen or primagen, or wants to just explore and see what they can come up with! 
-The generator is using Blender's [Geometry Node system](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/index.html). 
+The generator is made using Blender's [Geometry Node system](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/index.html). 
 
 ## 🎨 Features
 
@@ -13,7 +13,6 @@ The software can currently be used for:
 * Making full-bodied protogen/primagens with hundreds of possible combinations
 * Creating profile pictures or high-quality wallpapers with loads of customisation
 * Previewing and coming up with designs for a fursona
-And lots more!
 
 ## 📝 Using the Generator
 
